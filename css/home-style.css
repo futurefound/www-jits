@@ -98,6 +98,7 @@ header nav .nav-icon {
 #header-hero {
   width: 100%;
   display: block;
+    background-color: coral;
   position: relative;
 }
 
